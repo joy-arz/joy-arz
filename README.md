@@ -2,11 +2,7 @@
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
-<span style="
-  background: url('https://i.imgur.com/8QfQZ5L.png') center/100% 100% no-repeat;
-">
-Spider-Man
-</span>
+<img src="https://i.imgur.com/8QfQZ5L.png" height="18" style="vertical-align: middle;">
 Developer
 </p>
 <p align="center">
