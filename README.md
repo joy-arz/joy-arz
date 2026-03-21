@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Jony, but you can call me Joy </br>
 </h1>
-<p align="center">Building things and</p>
-<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">Your Friendly Neighbourhood ~~Spider-man~~</p>
+<p align="center">Developer</p>
 <p align="center">
 <a href="https://instagram.com/joyz.yn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="mailto:jony.huang.me@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" style="vertical-align:center" /></a>
