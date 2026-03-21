@@ -2,14 +2,18 @@
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
-<svg width="140" height="24" style="vertical-align: middle;">
-  <text x="0" y="18" font-size="16">Spider-Man</text>
-  <path d="M0 12 Q20 5, 40 12 T80 12 T120 10"
-        stroke="red"
-        stroke-width="2"
-        fill="none"
-        stroke-linecap="round"/>
-</svg>
+<span style="
+  background: repeating-linear-gradient(
+    170deg,
+    transparent 0px,
+    transparent 6px,
+    red 7px,
+    red 9px,
+    transparent 10px
+  );
+">
+Spider-Man
+</span>
 Developer
 </p>
 <p align="center">
