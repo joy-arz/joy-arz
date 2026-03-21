@@ -2,18 +2,11 @@
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
-[<span style="
-  background: repeating-linear-gradient(
-    170deg,
-    transparent 0px,
-    transparent 6px,
-    red 7px,
-    red 9px,
-    transparent 10px
-  );
+<span style="
+  background: url('https://i.imgur.com/8QfQZ5L.png') center/100% 100% no-repeat;
 ">
 Spider-Man
-</span>](https://i.imgur.com/8QfQZ5L.png)
+</span>
 Developer
 </p>
 <p align="center">
