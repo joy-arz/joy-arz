@@ -2,7 +2,9 @@
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
-<img src="https://scribble.rs/strike1.png" height="18" style="vertical-align: middle;">
+<span style="text-decoration-line: line-through; text-decoration-style: double;">
+Spider-Man
+</span> 
 Developer
 </p>
 <p align="center">
