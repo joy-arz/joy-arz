@@ -12,6 +12,20 @@
 ### [Enclave](https://github.com/joy-arz/enclave)
 A high-performance, multi-agent AI engineering system built with Rust. Orchestrates local CLI agents to collaborate as active engineering partners, directly modifying project codebases until tasks are complete.
 
+### [Council Agent](https://github.com/joy-arz/council-agent-api)
+The API backend for the Council Agent system, handling agent orchestration and session management.
+
+### [Indonesian Folklore Terminal RPG](https://github.com/joy-arz/indonesian-folklore-terminal-rpg)
+An educational terminal-based RPG that teaches Indonesian history and culture through AI-powered interactive storytelling. Explore 10 historical kingdoms (Sriwijaya, Majapahit, Demak, etc.).
+
+### [CookAlong-App](https://github.com/joy-arz/CookAlong-App)
+An intelligent realtime conversational agent to help you cook. Features live audio, computer vision, and grounded tool usage powered by Gemini.
+
+### [Nusantara Journey](https://github.com/joy-arz/nusantara-journey)
+An AI-powered Indonesian cultural heritage tourism and UMKM marketplace mobile app. Discover Indonesia's rich history with AI guide "Arjuna" and support local artisans.
+
+### [AI Buddy Marketing](https://github.com/joy-arz/ai-buddy-marketing)
+AI-powered marketing tools and automation.
 
 ---
 
