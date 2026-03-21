@@ -3,7 +3,7 @@
 <p align="center">
 Your Friendly Neighbourhood 
 <s>
-Spider-Man
+S̴̶̴p̴̶̴i̴̶̴d̴̶̴e̴̶̴r̴̶̴-̴̶̴M̴̶̴a̴̶̴n̴̶̴
 </s>
 Developer
 </p>
