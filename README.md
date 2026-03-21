@@ -12,9 +12,6 @@
 ### [Enclave](https://github.com/joy-arz/enclave)
 A high-performance, multi-agent AI engineering system built with Rust. Orchestrates local CLI agents to collaborate as active engineering partners, directly modifying project codebases until tasks are complete.
 
-### [Council Agent](https://github.com/joy-arz/council-agent-api)
-The API backend for the Council Agent system, handling agent orchestration and session management.
-
 ### [Indonesian Folklore Terminal RPG](https://github.com/joy-arz/indonesian-folklore-terminal-rpg)
 An educational terminal-based RPG that teaches Indonesian history and culture through AI-powered interactive storytelling. Explore 10 historical kingdoms (Sriwijaya, Majapahit, Demak, etc.).
 
