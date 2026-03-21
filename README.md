@@ -85,7 +85,10 @@ The API backend for the Council Agent system, handling agent orchestration and s
 
 ---
 <p align="center">
-<img src="https://github.com/joy-arz/joy-arz/blob/output/github-contribution-grid-snake-dark.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=joy-arz&icon=0&color=7)](https://visitcount.itsvg.in)
