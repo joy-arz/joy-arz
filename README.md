@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/joy-arz/joy-arz/blob/504fe574569a11c61ce22273105ef1e2ee44f3c0/banner" alt="Jony Wijaya's Banner" />
 
-<h1 align="center"> Hi 👋🏻, I'm Jony, but you can call me Joy </br>
+<h1 align="center"> Hi, I'm Jony, but you can call me Joy </br>
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
