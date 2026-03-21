@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Jony (Joy) </br>
+<h1 align="center"> Hi 👋🏻, I'm Jony, but you can call me Joy </br>
 </h1>
 <p align="center">Building things with Rust and AI ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
