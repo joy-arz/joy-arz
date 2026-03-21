@@ -3,17 +3,19 @@
 <p align="center">
 Your Friendly Neighbourhood 
 <span style="
-  text-decoration: line-through;
-  position: relative;
+  background: linear-gradient(
+    to top,
+    transparent 40%,
+    red 40%,
+    red 48%,
+    transparent 48%,
+    transparent 55%,
+    red 55%,
+    red 63%,
+    transparent 63%
+  );
 ">
 Spider-Man
-<span style="
-  position:absolute;
-  left:0;
-  right:0;
-  top:55%;
-  border-top: 2px solid red;
-"></span>
 </span>
 Developer
 </p>
