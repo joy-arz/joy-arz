@@ -9,7 +9,7 @@
 
 ## Creation 👨‍💻
 
-### [Enclave](https://github.com/joy-arz/enclave)](https://github.com/joy-arz/Enclave---Council-AI-Agents)
+### [Enclave](https://github.com/joy-arz/Enclave---Council-AI-Agents)
 A high-performance, multi-agent AI engineering system built with Rust. Orchestrates local CLI agents to collaborate as active engineering partners, directly modifying project codebases until tasks are complete.
 
 ### [Indonesian Folklore Terminal RPG](https://github.com/joy-arz/indonesian-folklore-terminal-rpg)
