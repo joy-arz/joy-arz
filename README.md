@@ -72,10 +72,18 @@ A high-performance, multi-agent AI engineering system built with Rust. Orchestra
 ---
 
 ## Current GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false" alt="GitHub streak" />
+</p>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true&layout=compact)
-
-## GitHub Streaks
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false)
 
 ---
