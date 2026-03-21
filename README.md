@@ -9,7 +9,7 @@
 
 ## Creation 👨‍💻
 
-### [Enclave](https://github.com/joy-arz/enclave)
+### [Enclave](https://github.com/joy-arz/enclave)](https://github.com/joy-arz/Enclave---Council-AI-Agents)
 A high-performance, multi-agent AI engineering system built with Rust. Orchestrates local CLI agents to collaborate as active engineering partners, directly modifying project codebases until tasks are complete.
 
 ### [Indonesian Folklore Terminal RPG](https://github.com/joy-arz/indonesian-folklore-terminal-rpg)
@@ -20,9 +20,6 @@ An intelligent realtime conversational agent to help you cook. Features live aud
 
 ### [Nusantara Journey](https://github.com/joy-arz/nusantara-journey)
 An AI-powered Indonesian cultural heritage tourism and UMKM marketplace mobile app. Discover Indonesia's rich history with AI guide "Arjuna" and support local artisans.
-
-### [AI Buddy Marketing](https://github.com/joy-arz/ai-buddy-marketing)
-AI-powered marketing tools and automation.
 
 ---
 
@@ -41,7 +38,6 @@ AI-powered marketing tools and automation.
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 #### Design Tools
@@ -58,13 +54,11 @@ AI-powered marketing tools and automation.
 ![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma&logoColor=3982CE)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
 #### Backend & DevOps
 ![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Apache](https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache&logoColor=D42029)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?style=for-the-badge&logo=WordPress&logoColor=117AC9)
-![Godot Engine](https://img.shields.io/badge/-Godot-000?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)
 
 #### Hosting & Deployment
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
