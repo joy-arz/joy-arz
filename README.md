@@ -2,21 +2,9 @@
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
-<span style="
-  background: linear-gradient(
-    to top,
-    transparent 40%,
-    red 40%,
-    red 48%,
-    transparent 48%,
-    transparent 55%,
-    red 55%,
-    red 63%,
-    transparent 63%
-  );
-">
+<s>
 Spider-Man
-</span>
+</s>
 Developer
 </p>
 <p align="center">
