@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/joy-arz/joy-arz/master/banner.png" alt="Jony Wijaya's Banner" />
+
 <h1 align="center"> Hi 👋🏻, I'm Jony, but you can call me Joy </br>
 </h1>
 <p align="center">
