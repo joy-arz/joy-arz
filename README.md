@@ -86,12 +86,12 @@ A high-performance, multi-agent AI engineering system built with Rust. Orchestra
 
 ---
 
-### Connect
-
----
+## Connect
 
 <a href="mailto:jony.huang.me@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
 <a href="https://joyarz.space" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow"/></a></p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
