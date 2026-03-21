@@ -95,8 +95,8 @@ A high-performance, multi-agent AI engineering system built with Rust. Orchestra
 
 [![](https://visitcount.itsvg.in/api?id=joy-arz&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://ko-fi.com/joyarz" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-</p>
+</p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
