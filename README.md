@@ -12,23 +12,14 @@ Developer
 <a href="mailto:jony.huang.me@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" style="vertical-align:center" /></a>
 <a href="https://joyarz.space" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow" style="vertical-align:center" /></a></p>
 
-## Creation 👨‍💻
+## Latest Project
 
-### [Enclave](https://github.com/joy-arz/Enclave---Council-AI-Agents)
+### [Enclave - AI Council](https://github.com/joy-arz/Enclave---Council-AI-Agents)
 A high-performance, multi-agent AI engineering system built with Rust. Orchestrates local CLI agents to collaborate as active engineering partners, directly modifying project codebases until tasks are complete.
-
-### [Indonesian Folklore Terminal RPG](https://github.com/joy-arz/indonesian-folklore-terminal-rpg)
-An educational terminal-based RPG that teaches Indonesian history and culture through AI-powered interactive storytelling. Explore 10 historical kingdoms (Sriwijaya, Majapahit, Demak, etc.).
-
-### [CookAlong-App](https://github.com/joy-arz/CookAlong-App)
-An intelligent realtime conversational agent to help you cook. Features live audio, computer vision, and grounded tool usage powered by Gemini.
-
-### [Nusantara Journey](https://github.com/joy-arz/nusantara-journey)
-An AI-powered Indonesian cultural heritage tourism and UMKM marketplace mobile app. Discover Indonesia's rich history with AI guide "Arjuna" and support local artisans.
 
 ---
 
-## Tech Stack 💻
+## Tech Stack
 
 #### Languages
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
@@ -80,11 +71,11 @@ An AI-powered Indonesian cultural heritage tourism and UMKM marketplace mobile a
 
 ---
 
-## Current GitHub Stats 📊
+## Current GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true&layout=compact)
 
-## GitHub Streaks 🔥
+## GitHub Streaks
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false)
 
 ---
