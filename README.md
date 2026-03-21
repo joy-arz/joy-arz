@@ -84,12 +84,11 @@ The API backend for the Council Agent system, handling agent orchestration and s
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joy-arz/joy-arz/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joy-arz/joy-arz/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/joy-arz/joy-arz/raw/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=joy-arz&icon=0&color=7)](https://visitcount.itsvg.in)
 
