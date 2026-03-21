@@ -82,10 +82,6 @@ A high-performance, multi-agent AI engineering system built with Rust. Orchestra
   <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false" alt="GitHub streak" />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true&layout=compact)
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false)
-
 ---
 
 ### Connect
