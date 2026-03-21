@@ -2,9 +2,19 @@
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
-<span style="text-decoration-line: line-through; text-decoration-style: double;">
+<span style="
+  text-decoration: line-through;
+  position: relative;
+">
 Spider-Man
-</span> 
+<span style="
+  position:absolute;
+  left:0;
+  right:0;
+  top:55%;
+  border-top: 2px solid red;
+"></span>
+</span>
 Developer
 </p>
 <p align="center">
