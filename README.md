@@ -2,7 +2,7 @@
 </h1>
 <p align="center">
 Your Friendly Neighbourhood 
-<img src="https://i.imgur.com/8QfQZ5L.png" height="18" style="vertical-align: middle;">
+<img src="https://scribble.rs/strike1.png" height="18" style="vertical-align: middle;">
 Developer
 </p>
 <p align="center">
