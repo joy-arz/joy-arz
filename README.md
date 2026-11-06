@@ -12,7 +12,7 @@ Developer
 <p align="center">
 <a href="https://instagram.com/joyz.yn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="mailto:jony.huang.me@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" style="vertical-align:center" /></a>
-<a href="https://joyarz.space" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow" style="vertical-align:center" /></a></p>
+<a href="https://joyz.cc" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow" style="vertical-align:center" /></a></p>
 
 ## Latest Projects
 
@@ -92,7 +92,7 @@ A lightweight desktop game library and launcher with a carousel interface, offli
 ## Connect
 
 <a href="mailto:jony.huang.me@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-<a href="https://joyarz.space" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow"/></a></p>
+<a href="https://joyz.cc" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow"/></a></p>
 
 ---
 
