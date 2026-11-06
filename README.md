@@ -14,10 +14,13 @@ Developer
 <a href="mailto:jony.huang.me@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" style="vertical-align:center" /></a>
 <a href="https://joyarz.space" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow" style="vertical-align:center" /></a></p>
 
-## Latest Project
+## Latest Projects
 
-### [Enclave - AI Council](https://github.com/joy-arz/Enclave---Council-AI-Agents)
-A high-performance, multi-agent AI engineering system built with Rust. Orchestrates local CLI agents to collaborate as active engineering partners, directly modifying project codebases until tasks are complete.
+### [Komori](https://github.com/joy-arz/komori-reader)
+A lightweight Android manga reader built with Kotlin and Jetpack Compose. Supports online and offline reading, multiple source catalogs, and a local library with no ads or analytics.
+
+### [Joynite](https://github.com/joy-arz/Joynite)
+A lightweight desktop game library and launcher with a carousel interface, offline metadata, custom artwork, and keyboard/controller navigation. Available as a native SwiftUI app for macOS or a Rust/system-webview app for Windows, Linux, and macOS.
 
 ---
 
