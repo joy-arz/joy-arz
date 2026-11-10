@@ -22,6 +22,9 @@ A lightweight Android manga reader built with Kotlin and Jetpack Compose. Suppor
 ### [Joynite](https://github.com/joy-arz/Joynite)
 A lightweight desktop game library and launcher with a carousel interface, offline metadata, custom artwork, and keyboard/controller navigation. Available as a native SwiftUI app for macOS or a Rust/system-webview app for Windows, Linux, and macOS.
 
+### [Zenith](https://github.com/joy-arz/Zenith)
+A lightweight rust-based minecraft fork of horizon with offline profiles, custom skins, self-hosted servers and signed in-app updates. Maintained and modified with AI.
+
 ---
 
 ## Tech Stack
