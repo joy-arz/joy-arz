@@ -51,12 +51,11 @@ A lightweight rust-based minecraft fork of horizon with offline profiles, custom
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![Affinity by Canva](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
 #### Database & State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=039BE5)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma&logoColor=3982CE)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 #### Backend & DevOps
@@ -74,7 +73,6 @@ A lightweight rust-based minecraft fork of horizon with offline profiles, custom
 #### Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=000000)
 ![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo&logoColor=D04A37)
 
 ---
