@@ -51,7 +51,7 @@ A lightweight rust-based minecraft fork of horizon with offline profiles, custom
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC) 
-![Affinity by Canva](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Affinity by Canva](https://img.shields.io/badge/affinity%20by%20canva-%23000000.svg?style=for-the-badge&logo=affinity-by-canva&logoColor=9999FF)
 
 #### Database & State
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
