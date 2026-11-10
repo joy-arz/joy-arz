@@ -80,12 +80,8 @@ A lightweight rust-based minecraft fork of horizon with offline profiles, custom
 ## Current GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=joy-arz&theme=gruvbox&hide_border=false" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joy-arz&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&include_all_commits=true](https://github-stats-extended.vercel.app/api?username=joy-arz&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=joy-arz&layout=compact&hide_title=true&langs_count=8&theme=dark" alt="Top languages" />
 </p>
 
 ---
